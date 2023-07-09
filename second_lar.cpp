@@ -24,3 +24,38 @@ int main ()
     cout << "\nSecond smallest number : " << A[n - 2];
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// another approach of sorting array in descending order and then printing the second largest number
+
+
+  for (i = 0; i < n; i++) {
+    cout << arr[i] <<endl;
+  }
